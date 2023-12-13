@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bf1a737-fc52-43f9-a383-325de46f133f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/UpdatableState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/serverdeltas/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/serverdeltas/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/serverdeltas/UpdatableStateTest.java" afterDir="false" />
+    <list default="true" id="4bf1a737-fc52-43f9-a383-325de46f133f" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +33,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "glstrachan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="68c8ce36-8e6b-4b9d-b282-de9961f3e4da" />
+        <option name="url" value="https://github.com/glstrachan/javaserverdeltas.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -56,6 +60,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
@@ -124,6 +129,35 @@
       <option name="presentableId" value="Default" />
       <updated>1702500417244</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1702509674785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702509674785</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1702509917244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702509917244</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <option name="closed" value="true" />
+      <created>1702510014684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702510014684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
