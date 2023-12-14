@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf1a737-fc52-43f9-a383-325de46f133f" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/serverdeltas/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/UpdatableState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/UpdatableState.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/GameState.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/serverdeltas/UpdatableStateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/serverdeltas/UpdatableStateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702510014684</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <option name="closed" value="true" />
+      <created>1702511263708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702511263708</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
