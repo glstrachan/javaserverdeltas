@@ -3,14 +3,46 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/wgpu_native/wgpu_native/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf1a737-fc52-43f9-a383-325de46f133f" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaserverdeltas_jvm_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/kgpu_js_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/kgpu_jvm_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Surface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Wgpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu_native/src/main/java/org/serverdeltas/wgpu_native/CStrPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu_native/src/main/java/org/serverdeltas/wgpu_native/RustCString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu_native/src/main/java/org/serverdeltas/wgpu_native/SharedLibraryLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu_native/src/main/java/org/serverdeltas/wgpu_native/Wgpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu_native/src/main/java/org/serverdeltas/wgpu_native/WgpuNative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu_native/src/main/java/org/serverdeltas/wgpu_native/WgpuStruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgpu_native/wgpu_native" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/GameState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/serverdeltas/tictactoe/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wgpu_native/wgpu_native/examples/triangle/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/wgpu_native/wgpu_native/examples/triangle/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wgpu_native/wgpu_native/src/conv.rs" beforeDir="false" afterPath="$PROJECT_DIR$/wgpu_native/wgpu_native/src/conv.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wgpu_native/wgpu_native/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/wgpu_native/wgpu_native/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wgpu_native/wgpu_native/src/utils.rs" beforeDir="false" afterPath="$PROJECT_DIR$/wgpu_native/wgpu_native/src/utils.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +65,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "glstrachan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;glstrachan&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -47,9 +79,15 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="z55i04m9" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ZVHde9rTiaZTh4vGtnMEdMrqX3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,13 +96,69 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cargo.Test native::bindgen_test_layout_WGPUSurfaceDescriptorFromWindowsHWND.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Gradle.javaserverdeltas [:Client.main()].executor": "Run",
+    "Gradle.javaserverdeltas [createNatives].executor": "Run",
+    "Gradle.javaserverdeltas [dependencies].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/olive/IdeaProjects/javaserverdeltas/wgpu_native/wgpu_native/Cargo.toml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.UpdatableStateTest">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.serverdeltas.wgpu_native" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="RUST_LOG" value="trace" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="org.serverdeltas.tictactoe.Client" />
+      <module name="javaserverdeltas.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.serverdeltas.tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test native::bindgen_test_layout_WGPUSurfaceDescriptorFromWindowsHWND" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package wgpu-native --lib native::bindgen_test_layout_WGPUSurfaceDescriptorFromWindowsHWND -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/wgpu_native/wgpu_native" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UpdatableStateTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -89,36 +183,78 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="UpdatableStateTest.barDelta" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="javaserverdeltas [createNatives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;org.serverdeltas.UpdatableStateTest.barDelta&quot;" />
+            <option value="createNatives" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="javaserverdeltas [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Cargo.Test native::bindgen_test_layout_WGPUSurfaceDescriptorFromWindowsHWND" />
+      <item itemvalue="Gradle.javaserverdeltas [createNatives]" />
+      <item itemvalue="Gradle.javaserverdeltas [dependencies]" />
+      <item itemvalue="Gradle.UpdatableStateTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Test native::bindgen_test_layout_WGPUSurfaceDescriptorFromWindowsHWND" />
+        <item itemvalue="Gradle.javaserverdeltas [dependencies]" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Gradle.javaserverdeltas [createNatives]" />
         <item itemvalue="Gradle.UpdatableStateTest" />
-        <item itemvalue="Gradle.UpdatableStateTest.barDelta" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-f0552fc0" />
+        <option value="jdk-20.0.2-azul-20.0.2-3183f394aec4-4edb7f01" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,6 +264,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702500417244</updated>
+      <workItem from="1702652787903" duration="3591000" />
+      <workItem from="1702656385797" duration="786000" />
+      <workItem from="1702657199922" duration="7030000" />
+      <workItem from="1702666261959" duration="3419000" />
+      <workItem from="1702669710219" duration="15101000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -156,8 +297,34 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Adapter.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wgpu/src/main/java/org/serverdeltas/Instance.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="jnr.ffi.Struct$Info" memberName="memory" />
+        <PinnedItemInfo parentTag="jnr.ffi.Struct$Pointer" memberName="Struct$PointerField.this$0" />
+        <PinnedItemInfo parentTag="org.serverdeltas.wgpu_native.WgpuNative$WGPUSurfaceDescriptorFromWindowsHWND" memberName="hinstance" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.serverdeltas'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(":wgpu_native")
+
+    implementation group: 'com.github.jnr', name: 'jnr-ffi', version: '2.1.15'
+    implementation group: 'com.github.jnr', name: 'jffi', version: '1.2.23'
+
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}

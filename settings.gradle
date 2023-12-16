@@ -1,2 +1,4 @@
 rootProject.name = 'javaserverdeltas'
+include 'wgpu_native'
+include 'wgpu'
 

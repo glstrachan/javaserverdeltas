@@ -1,0 +1,6 @@
+[submodule "kgpu"]
+	path = kgpu
+	url = https://github.com/nohenry/kgpu.git
+[submodule "wgpu_native/wgpu_native"]
+	path = wgpu_native/wgpu_native
+	url = https://github.com/gfx-rs/wgpu-native.git

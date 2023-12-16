@@ -1,0 +1,42 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.serverdeltas'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'com.github.jnr', name: 'jnr-ffi', version: '2.1.15'
+    implementation group: 'com.github.jnr', name: 'jffi', version: '1.2.23'
+
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+
+task createNatives(type: Copy){
+    from("${projectDir}/wgpu_native/target/debug") {
+        include 'wgpu_native.dll'
+        include 'libwgpu_native.so'
+        include 'libwgpu_native.dylib'
+    }
+    into "${projectDir}/src/main/resources"
+}
+
+
+task cargoBuild(type:Exec) {
+    workingDir "${projectDir}/wgpu_native"
+    commandLine 'cargo', 'build'
+}
+
+compileJava.dependsOn createNatives
+processResources.dependsOn createNatives
+createNatives.dependsOn cargoBuild
